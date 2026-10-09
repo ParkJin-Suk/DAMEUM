@@ -95,6 +95,7 @@ npx expo start        # --ios / --android / --web
 
 ## 팀 구성 및 역할
 
+|---|---|
 | 고시은 | 기획 / ux/ui |
 | 구준모 | PM / ai |
 | 김성희 | ai |
